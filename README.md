@@ -9,7 +9,8 @@ AI Price Comparison Calculator is a tool designed to analyze and compare prices 
 ## Features
 - Compare prices of multiple models from Open Router
 - Estimate costs for models based on previous projects and their token usage
-
+- Models and price caching for API from Open Router
+- Change input sizes (Millions, Thousands, Single)
 
 ## Installation
 1. `git clone https://github.com/StoyPenny/ai-price-comparison-calculator.git`
