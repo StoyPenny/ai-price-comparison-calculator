@@ -24,7 +24,7 @@ AI Price Comparison Calculator is a tool designed to analyze and compare prices 
 - Compare prices from each model
 
 
-Contributing
+## Contributing
 - Fork the repository
 - Create your feature branch (git checkout -b feature/amazing-feature)
 - Commit your changes (git commit -m 'Add some amazing feature')
