@@ -15,7 +15,7 @@ AI Price Comparison Calculator is a tool designed to analyze and compare prices 
 1. `git clone https://github.com/username/ai-price-comparison-calculator.git`
 2. `cd ai-price-comparison-calculator`
 3. `npm install`
-4. `npm start`
+4. `npm run dev`
 
 
 ## Usage
