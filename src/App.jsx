@@ -147,8 +147,8 @@ function App() {
           id="input-tokens"
           type="number"
           value={inputTokens}
-          onChange={(e) => setInputTokens(parseInt(e.target.value, 10))}
-          min="0"
+          onChange={(e) => setInputTokens(parseFloat(e.target.value), 0)}
+          step="0.01"
         />
         <Select
           classNamePrefix="react-select"
@@ -164,8 +164,8 @@ function App() {
           id="output-tokens"
           type="number"
           value={outputTokens}
-          onChange={(e) => setOutputTokens(parseInt(e.target.value, 10))}
-          min="0"
+          onChange={(e) => setOutputTokens(parseFloat(e.target.value, 10))}
+          step="0.01"
         />
         <Select
             classNamePrefix="react-select"
